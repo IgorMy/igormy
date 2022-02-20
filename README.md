@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihar Myshkevich</h1>
-<h3 align="justify">A computer science engineer student who is searching new challenges in full stack and computing vision. </h3>
+<h3 align="justify">A computer science engineer who is searching new challenges in full stack and computing vision. </h3>
 <p>
 Yes, it can be strange to hear something like that, but I'm really interested in both of them because web applications can be displayed in any device and are so handsome. On the other hand, computing vision is changing the word nowadays. You can create fake images from scratch which appears real or detect things that human eye can see.
 </p>
