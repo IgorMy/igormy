@@ -1,7 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all"  href="main.css"></link>
-
-
-<p align="center"><a href="https://github.com/IgorMy"><img id='avatar' src="https://avatars.githubusercontent.com/u/33940074?v=4"></a></p>
+<p align="center"><a href="https://github.com/IgorMy"><img height="250rem" width="250rem" id='avatar' src="https://github.com/IgorMy/igormy/blob/main/img/33940074.png"></a></p>
 
 
 <h1 align="center">Hi 👋, I'm Ihar Myshkevich</h1>
