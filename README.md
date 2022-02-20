@@ -1,8 +1,9 @@
-<p align="center"><a href="https://github.com/IgorMy">
-  
-  ![drawing](https://avatars.githubusercontent.com/u/33940074?v=4)
-  
- </a></p>
+<link rel="stylesheet" type="text/css" media="all"  href="main.css"></link>
+
+
+<p align="center"><a href="https://github.com/IgorMy"><img id='avatar' src="https://avatars.githubusercontent.com/u/33940074?v=4"></a></p>
+
+
 <h1 align="center">Hi 👋, I'm Ihar Myshkevich</h1>
 <h3 align="justify">A computer science engineer student who is searching new challenges in full stack and computing vision. </h3>
 Yes, it can be strange to hear something like that, but I'm really interested in both of them because web applications can be displayed in any device and are so handsome. On the other hand, computing vision is changing the word nowadays. You can create fake images from scratch which appears real or detect things that human eye can see.
